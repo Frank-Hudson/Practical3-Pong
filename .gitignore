@@ -1,4 +1,7 @@
+builds/
+
 *-stable.zip
 *-pre.zip
+*-pre*.zip
 *-alpha.zip
 *-beta.zip
